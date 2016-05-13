@@ -1,3 +1,7 @@
+role :app, %w{freeza@freeza.aiming-inc.biz}
+role :web, %w{freeza@freeza.aiming-inc.biz}
+role :db,  %w{freeza@freeza.aiming-inc.biz}
+
 # server-based syntax
 # ======================
 # Defines a single server with a list of roles and multiple properties.
